@@ -1,0 +1,46 @@
+#contents {
+  margin-top: 82px;
+}
+
+footer {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.po {
+  cursor: pointer;
+}
+
+.ace_editor, .ace_editor * {
+  font-family: "Monaco", "Menlo", "Ubuntu Mono", "Droid Sans Mono", "Consolas", monospace !important;
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0 !important;
+}
+
+circle {
+  cursor: pointer;
+}
+
+.position-fixed.end-0.align-items-center {
+  z-index: 10000 !important;
+}
+
+.elipsized {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.table-obj {
+  font-size: 12px;
+  max-height: 24px;
+}
+
+#mydata-chart {
+  width: 100%;
+  max-width: 100%;
+  height: 550px;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,14 @@
+{
+    "name": "My Data",
+    "prefix": "mydata",
+    "domain": "my-data",
+    "version": "1.0.0",
+    "author": "Kenzap Pte Ltd",
+    "license": {
+        "name" : "GPL2+",
+        "url": "http://www.gnu.org/licenses/gpl-2.0.txt"
+    },
+    "releases": [
+        { "version":"1.0.0", "notes": "- New release\n - First commit" }
+    ]
+}
