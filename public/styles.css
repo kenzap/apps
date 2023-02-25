@@ -2,6 +2,10 @@
   margin-top: 82px;
 }
 
+.loader {
+  z-index: 10000;
+}
+
 footer {
   margin-top: 32px;
   margin-bottom: 32px;
@@ -42,5 +46,3 @@ circle {
   max-width: 100%;
   height: 550px;
 }
-
-/*# sourceMappingURL=styles.css.map */
